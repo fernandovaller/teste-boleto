@@ -1,0 +1,17 @@
+{
+    "name": "fernando/boleto",
+    "autoload": {
+        "psr-4": {
+            "Fernando\\Boleto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fernando Lima",
+            "email": "fernandolima@avato.com.br"
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^2.2"
+    }
+}
